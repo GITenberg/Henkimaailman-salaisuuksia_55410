@@ -1,11 +1,16 @@
 _repo: Henkimaailman-salaisuuksia_55410
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schöldström, Birger
     gutenberg_agent_id: '48322'
     url: http://www.gutenberg.org/2009/agents/48322
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55410#Henkimaailman-salaisuuksia
 gutenberg_issued: '2017-08-22'
 gutenberg_type: Text
 identifiers:
